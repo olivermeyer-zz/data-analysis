@@ -1,2 +1,2 @@
 # data-analysis
-This repository contains some of my data science projects.
+ This repo will eventually contain some of my data science projects. Maybe.
